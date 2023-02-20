@@ -1,0 +1,16 @@
+C:\Users\GF65\source\repos\parking_task\parking_task\bin\Debug\net5.0\parking_task.exe
+C:\Users\GF65\source\repos\parking_task\parking_task\bin\Debug\net5.0\parking_task.deps.json
+C:\Users\GF65\source\repos\parking_task\parking_task\bin\Debug\net5.0\parking_task.runtimeconfig.json
+C:\Users\GF65\source\repos\parking_task\parking_task\bin\Debug\net5.0\parking_task.runtimeconfig.dev.json
+C:\Users\GF65\source\repos\parking_task\parking_task\bin\Debug\net5.0\parking_task.dll
+C:\Users\GF65\source\repos\parking_task\parking_task\bin\Debug\net5.0\parking_task.pdb
+C:\Users\GF65\source\repos\parking_task\parking_task\obj\Debug\net5.0\parking_task.csproj.AssemblyReference.cache
+C:\Users\GF65\source\repos\parking_task\parking_task\obj\Debug\net5.0\parking_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GF65\source\repos\parking_task\parking_task\obj\Debug\net5.0\parking_task.AssemblyInfoInputs.cache
+C:\Users\GF65\source\repos\parking_task\parking_task\obj\Debug\net5.0\parking_task.AssemblyInfo.cs
+C:\Users\GF65\source\repos\parking_task\parking_task\obj\Debug\net5.0\parking_task.csproj.CoreCompileInputs.cache
+C:\Users\GF65\source\repos\parking_task\parking_task\obj\Debug\net5.0\parking_task.dll
+C:\Users\GF65\source\repos\parking_task\parking_task\obj\Debug\net5.0\refint\parking_task.dll
+C:\Users\GF65\source\repos\parking_task\parking_task\obj\Debug\net5.0\parking_task.pdb
+C:\Users\GF65\source\repos\parking_task\parking_task\obj\Debug\net5.0\parking_task.genruntimeconfig.cache
+C:\Users\GF65\source\repos\parking_task\parking_task\obj\Debug\net5.0\ref\parking_task.dll
